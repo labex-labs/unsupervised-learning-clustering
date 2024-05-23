@@ -24,6 +24,7 @@ In this course, you will fully understand unsupervised learning and learn to use
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
