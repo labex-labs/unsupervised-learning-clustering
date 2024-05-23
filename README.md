@@ -10,7 +10,7 @@ In this course, you will fully understand unsupervised learning and learn to use
 
 ## Scenarios
 
-|   Index | Name                                                 | Difficulty   | URL                                                                 |
+|   Index | Name                                                 | Difficulty   | Practice                                                            |
 |---------|------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Supervised and Unsupervised Learning Exploration   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20815'>Start Lab</a> |
 |       2 | 📖 Centroid Based Clustering                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20754'>Start Lab</a> |
@@ -21,4 +21,9 @@ In this course, you will fully understand unsupervised learning and learn to use
 |       7 | 📖 Density-Based Clustering Application               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20820'>Start Lab</a> |
 |       8 | 📖 Spectral Clustering and Other Clustering Methods   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20811'>Start Lab</a> |
 |       9 | 📖 Evaluation of Common Clustering Methods            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20774'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
