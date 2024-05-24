@@ -1,6 +1,6 @@
 # Unsupervised Learning: Clustering
 
-![Unsupervised Learning: Clustering](https://cover-creator.labex.io/unsupervised-learning-clustering.png)
+![Unsupervised Learning: Clustering](https://cover-creator.appbot.io/unsupervised-learning-clustering.png)
 
 In this course, you will fully understand unsupervised learning and learn to use unsupervised learning to perform data clustering.
 
