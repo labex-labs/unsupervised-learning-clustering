@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                  | Difficulty   | Practice                                                                                                                       |
-|---------|-------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | Practice                                                                                                                       |
+|---------|------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Supervised and Unsupervised Learning Exploration   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-supervised-and-unsupervised-learning-exploration-20815'>Start Lab</a>   |
 |       2 | 📖 Centroid Based Clustering                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-centroid-based-clustering-20754'>Start Lab</a>                          |
 |       3 | 📖 Image Compression Using Mini Batch K Means         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-image-compression-using-mini-batch-k-means-20783'>Start Lab</a>         |
