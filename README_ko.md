@@ -32,19 +32,19 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                | 난이도   | 연습                                                                                                                         |
 |----------|-----------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Supervised and Unsupervised Learning Exploration | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>실습 시작</a>   |
-|        2 | 📖 중심 기반 클러스터링                             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-centroid-based-clustering-20754'>실습 시작</a>                          |
-|        3 | 📖 Mini Batch K Means 를 사용한 이미지 압축         | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-image-compression-using-mini-batch-k-means-20783'>실습 시작</a>         |
-|        4 | 📖 계층적 클러스터링 탐구: 클러스터링 기법          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>실습 시작</a> |
-|        5 | 📖 밀 씨앗의 계층적 클러스터링                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>실습 시작</a>             |
-|        6 | 📖 밀도 기반 클러스터링                             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-density-based-clustering-20770'>실습 시작</a>                           |
-|        7 | 📖 Density-Based Clustering Application             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-density-based-clustering-application-20820'>실습 시작</a>               |
-|        8 | 📖 Spectral Clustering and Other Clustering Methods | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>실습 시작</a>   |
-|        9 | 📖 일반적인 클러스터링 방법 평가                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-evaluation-of-common-clustering-methods-20774'>실습 시작</a>            |
+|        1 | 📖 Supervised and Unsupervised Learning Exploration | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>실습 시작</a>   |
+|        2 | 📖 중심 기반 클러스터링                             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-centroid-based-clustering-20754'>실습 시작</a>                          |
+|        3 | 📖 Mini Batch K Means 를 사용한 이미지 압축         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-image-compression-using-mini-batch-k-means-20783'>실습 시작</a>         |
+|        4 | 📖 계층적 클러스터링 탐구: 클러스터링 기법          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>실습 시작</a> |
+|        5 | 📖 밀 씨앗의 계층적 클러스터링                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>실습 시작</a>             |
+|        6 | 📖 밀도 기반 클러스터링                             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-density-based-clustering-20770'>실습 시작</a>                           |
+|        7 | 📖 Density-Based Clustering Application             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-density-based-clustering-application-20820'>실습 시작</a>               |
+|        8 | 📖 Spectral Clustering and Other Clustering Methods | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>실습 시작</a>   |
+|        9 | 📖 일반적인 클러스터링 방법 평가                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-evaluation-of-common-clustering-methods-20774'>실습 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
