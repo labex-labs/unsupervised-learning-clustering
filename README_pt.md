@@ -32,19 +32,19 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                        |
 |----------|----------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Supervised and Unsupervised Learning Exploration      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>Iniciar Lab</a>   |
-|        2 | 📖 Agrupamento Baseado em Centróides                     | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-centroid-based-clustering-20754'>Iniciar Lab</a>                          |
-|        3 | 📖 Compressão de Imagem Usando Mini Batch K Means        | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-image-compression-using-mini-batch-k-means-20783'>Iniciar Lab</a>         |
-|        4 | 📖 Exploração de Agrupamento Hierárquico para Cluster... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>Iniciar Lab</a> |
-|        5 | 📖 Clustering Hierárquico de Sementes de Trigo           | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>Iniciar Lab</a>             |
-|        6 | 📖 Agrupamento Baseado em Densidade                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-density-based-clustering-20770'>Iniciar Lab</a>                           |
-|        7 | 📖 Density-Based Clustering Application                  | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-density-based-clustering-application-20820'>Iniciar Lab</a>               |
-|        8 | 📖 Spectral Clustering and Other Clustering Methods      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>Iniciar Lab</a>   |
-|        9 | 📖 Avaliação de Métodos Comuns de Agrupamento            | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-evaluation-of-common-clustering-methods-20774'>Iniciar Lab</a>            |
+|        1 | 📖 Supervised and Unsupervised Learning Exploration      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>Iniciar Lab</a>   |
+|        2 | 📖 Agrupamento Baseado em Centróides                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-centroid-based-clustering-20754'>Iniciar Lab</a>                          |
+|        3 | 📖 Compressão de Imagem Usando Mini Batch K Means        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-image-compression-using-mini-batch-k-means-20783'>Iniciar Lab</a>         |
+|        4 | 📖 Exploração de Agrupamento Hierárquico para Cluster... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>Iniciar Lab</a> |
+|        5 | 📖 Clustering Hierárquico de Sementes de Trigo           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>Iniciar Lab</a>             |
+|        6 | 📖 Agrupamento Baseado em Densidade                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-density-based-clustering-20770'>Iniciar Lab</a>                           |
+|        7 | 📖 Density-Based Clustering Application                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-density-based-clustering-application-20820'>Iniciar Lab</a>               |
+|        8 | 📖 Spectral Clustering and Other Clustering Methods      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>Iniciar Lab</a>   |
+|        9 | 📖 Avaliação de Métodos Comuns de Agrupamento            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-evaluation-of-common-clustering-methods-20774'>Iniciar Lab</a>            |
 
 ## Mais
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriais Gratuitos](https://github.com/labex-labs/ml-free-tutorials)
 
