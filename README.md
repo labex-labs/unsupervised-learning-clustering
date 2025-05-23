@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Unsupervised Learning: Clustering](https://cover-creator.labex.io/unsupervised-learning-clustering.png)](https://labex.io/en/courses/unsupervised-learning-clustering)
+[![Unsupervised Learning: Clustering](https://cover-creator.labex.io/unsupervised-learning-clustering.png)](https://labex.io/courses/unsupervised-learning-clustering)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/unsupervised-learning-clustering)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/unsupervised-learning-clustering)
 
 In this course, you will fully understand unsupervised learning and learn to use unsupervised learning to perform data clustering.
 
@@ -30,17 +30,17 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                  | Difficulty   | Practice                                                                                                                     |
-|---------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Supervised and Unsupervised Learning Exploration   | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>Start Lab</a>   |
-|       2 | 📖 Centroid Based Clustering                          | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-centroid-based-clustering-20754'>Start Lab</a>                          |
-|       3 | 📖 Image Compression Using Mini Batch K Means         | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-image-compression-using-mini-batch-k-means-20783'>Start Lab</a>         |
-|       4 | 📖 Hierarchical Clustering Exploration for Clustering | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>Start Lab</a> |
-|       5 | 📖 Hierarchical Clustering of Wheat Seeds             | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>Start Lab</a>             |
-|       6 | 📖 Density Based Clustering                           | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-density-based-clustering-20770'>Start Lab</a>                           |
-|       7 | 📖 Density-Based Clustering Application               | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-density-based-clustering-application-20820'>Start Lab</a>               |
-|       8 | 📖 Spectral Clustering and Other Clustering Methods   | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>Start Lab</a>   |
-|       9 | 📖 Evaluation of Common Clustering Methods            | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-evaluation-of-common-clustering-methods-20774'>Start Lab</a>            |
+|   Index | Name                                                  | Difficulty   | Practice                                                                                                                  |
+|---------|-------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Supervised and Unsupervised Learning Exploration   | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>Start Lab</a>   |
+|       2 | 📖 Centroid Based Clustering                          | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-centroid-based-clustering-20754'>Start Lab</a>                          |
+|       3 | 📖 Image Compression Using Mini Batch K Means         | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-image-compression-using-mini-batch-k-means-20783'>Start Lab</a>         |
+|       4 | 📖 Hierarchical Clustering Exploration for Clustering | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>Start Lab</a> |
+|       5 | 📖 Hierarchical Clustering of Wheat Seeds             | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>Start Lab</a>             |
+|       6 | 📖 Density Based Clustering                           | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-density-based-clustering-20770'>Start Lab</a>                           |
+|       7 | 📖 Density-Based Clustering Application               | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-density-based-clustering-application-20820'>Start Lab</a>               |
+|       8 | 📖 Spectral Clustering and Other Clustering Methods   | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>Start Lab</a>   |
+|       9 | 📖 Evaluation of Common Clustering Methods            | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-evaluation-of-common-clustering-methods-20774'>Start Lab</a>            |
 
 ## More
 
