@@ -32,19 +32,19 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                      | 難易度   | 練習                                                                                                                          |
 |----------------|-----------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 教師あり学習と教師なし学習の探索                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>ラボを開始</a>   |
-|              2 | 📖 重心ベースのクラスタリング                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-centroid-based-clustering-20754'>ラボを開始</a>                          |
-|              3 | 📖 ミニバッチ K 平均法を用いた画像圧縮                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-image-compression-using-mini-batch-k-means-20783'>ラボを開始</a>         |
-|              4 | 📖 クラスタリングのための階層型クラスタリングの探索       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>ラボを開始</a> |
-|              5 | 📖 小麦種子の階層的クラスタリング                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>ラボを開始</a>             |
-|              6 | 📖 密度ベースのクラスタリング                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-density-based-clustering-20770'>ラボを開始</a>                           |
-|              7 | 📖 密度ベースのクラスタリングの応用                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-density-based-clustering-application-20820'>ラボを開始</a>               |
-|              8 | 📖 スペクトラルクラスタリングとその他のクラスタリング手法 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>ラボを開始</a>   |
-|              9 | 📖 一般的なクラスタリング手法の評価                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-evaluation-of-common-clustering-methods-20774'>ラボを開始</a>            |
+|              1 | 📖 教師あり学習と教師なし学習の探索                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-supervised-and-unsupervised-learning-exploration-20815'>ラボを開始</a>   |
+|              2 | 📖 重心ベースのクラスタリング                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-centroid-based-clustering-20754'>ラボを開始</a>                          |
+|              3 | 📖 ミニバッチ K 平均法を用いた画像圧縮                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-image-compression-using-mini-batch-k-means-20783'>ラボを開始</a>         |
+|              4 | 📖 クラスタリングのための階層型クラスタリングの探索       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-hierarchical-clustering-exploration-for-clustering-20782'>ラボを開始</a> |
+|              5 | 📖 小麦種子の階層的クラスタリング                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-hierarchical-clustering-of-wheat-seeds-20779'>ラボを開始</a>             |
+|              6 | 📖 密度ベースのクラスタリング                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-density-based-clustering-20770'>ラボを開始</a>                           |
+|              7 | 📖 密度ベースのクラスタリングの応用                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-density-based-clustering-application-20820'>ラボを開始</a>               |
+|              8 | 📖 スペクトラルクラスタリングとその他のクラスタリング手法 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-spectral-clustering-and-other-clustering-methods-20811'>ラボを開始</a>   |
+|              9 | 📖 一般的なクラスタリング手法の評価                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-evaluation-of-common-clustering-methods-20774'>ラボを開始</a>            |
 
 ## その他
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 無料チュートリアル](https://github.com/labex-labs/ml-free-tutorials)
 
